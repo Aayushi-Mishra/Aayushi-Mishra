@@ -15,7 +15,7 @@
 ##
 🌱 I’m currently learning Machine learning and AI.
 
-👯 I’m looking to collaborate with other creators to participate in events and hackathons!
+👯 I’m looking to work in Quality assurance with my experience in software testing!
 
 ⚡ Fun fact: I like to learn new languages. Currently I'm learning Korean(한글).
 
@@ -23,6 +23,8 @@
   ### Skills:
   
   **Languages: Python, C, Java**
+
+  **Testing tools: Selenium, Postman, Playwright, Cypress**
 
   **Web-dev: HTML, CSS, Javascript, React**
 
